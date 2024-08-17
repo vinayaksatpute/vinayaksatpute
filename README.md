@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vinayaksatpute
-- 👀 I’m interested in product engineering.
-- 🌱 I’m currently learning product portfolio management. 
-- 💞️ I’m looking to collaborate on data engineering, AI and ML products.
+- 👀 I’m passionate about sustainability, and climate technologies.
+- 🌱 I’m a practitioner of product engineering using Agile. 
+- 💞️ I’m always interested to collaborate on climate scientists, sustainability experts, product and data engineers, AI, ML and data scientists.
 - 📫 How to reach me ? Email to vinayaksatpute@gmail.com
 
 <!---
